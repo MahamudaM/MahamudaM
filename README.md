@@ -1,11 +1,9 @@
 
 
-- 🔭 I’m currently working on this page. 
+<!-- - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Redux 
 - 💬 Ask me about Web development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahamudaM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahamuda-akter-440ba4259/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahamudaM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahamuda-akter-440ba4259/)   -->
 
 <h1 align="center"><i>Hi,I'm Mahamuda Akter</i></h1>
 <h3 align="center"><i>A MERN Full-Stack Web Developer from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
@@ -26,7 +24,7 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <p align="left">
 <a href="https://www.linkedin.com/in/mahamuda-akter-440ba4259/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
 <a href="https://spiffy-narwhal-2a4ff5.netlify.app/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
-<a href="https://discord.gg/ReDM2AR3cA" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/ReDM2AR3cA" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a> -->
 </p>
 <h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
 <p align="center">
