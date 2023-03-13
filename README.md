@@ -17,7 +17,7 @@
 I am a quick learnar,endurance and responsible person. I have ability to communicate and interact with people in a way that makes them feel comfortable.
 
 - 📫 How to reach me <a href="mailto=mahamuda3052@gmail.com" target="_blank"><b>mahamuda3052@gmail.com</b></a>
-  <a href="https://github.com/MahamudaM" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
+<!--   <a href="https://github.com/MahamudaM" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a> -->
 - ⚡ Intaresting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Interesting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Fun fact **I'm good with people**.
@@ -26,7 +26,6 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <p align="left">
 <a href="https://www.linkedin.com/in/mahamuda-akter-440ba4259/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
 <a href="https://spiffy-narwhal-2a4ff5.netlify.app/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
-<a href="https://replit.com/@rakibulinux" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="30" width="30" /></a>
 <a href="https://discord.gg/ReDM2AR3cA" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 <h2 align="left">👨🏻‍💻 Skills (Languges & Tools):</h2>
