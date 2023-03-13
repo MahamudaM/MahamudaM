@@ -15,27 +15,17 @@
 </a>
 </p>
 I am a quick learnar,endurance and responsible person. I have ability to communicate and interact with people in a way that makes them feel comfortable.
-- 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://portfolio.rakibulinux.com/) heavy by Learning New Things 💻.
-- 🌱 I’m currently learning more about **MERN Stack, Blockchain Dev & Courses etc.**
-- 💻 All of my projects are available at my [**Repo's**](https://github.com/rakibulinux) and some of you can see on [**Replit**](https://replit.com/@rakibulinux).
-- 📝 You can check out my 👉 <a href="resume.pdf" alt="Resume" target="_blank"><b>Resume</b></a>
-- 💬 Ask me about `HTML, CSS, TailWind CSS, Bootstrap, JavaScript, React JS, REST APIs, Node JS, Express JS, MongoDB`.
-- 📝 I regularly write Blogs on [**Hashnode**](https://rakibulinux.hashnode.dev/) and [Dev](https://dev.to/rakibulinux)
 
-- 📫 How to reach me <a href="mailto=rakibulinux@gmail.com" target="_blank"><b>rakibulinux@gmail.com</b></a>
-  <a href="https://github.com/rakibulinux" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
+- 📫 How to reach me <a href="mailto=mahamuda3052@gmail.com" target="_blank"><b>mahamuda3052@gmail.com</b></a>
+  <a href="https://github.com/MahamudaM" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
 - ⚡ Intaresting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Interesting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Fun fact **I'm good with people**.
 
 <h2 align="left">🌐 Connect with me on:</h2>
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=8801983904080&text=Hey!%2C%20Muhammad%2C%20How%20are%20you%3F" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="WhatsApp" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/rakibulinux/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rakibulinux" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rakibulinux/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="Instagram" height="30" width="40"/></a>
-<a href="https://twitter.com/rakibulinux" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter" height="30" width="40"/></a>
-<a href="https://portfolio.rakibulinux.com/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/mahamuda-akter-440ba4259/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
+<a href="https://spiffy-narwhal-2a4ff5.netlify.app/" target="_blank"><img align="center" src ="https://i.ibb.co/GFMcSJF/www.png" alt="My_Portfolio" width="40" height="40"/></a>
 <a href="https://replit.com/@rakibulinux" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="30" width="30" /></a>
 <a href="https://discord.gg/ReDM2AR3cA" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" height="30" width="40" /></a>
 </p>
@@ -62,21 +52,21 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <!-- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python" width="40" height="40"/> </a> -->
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/c312071b10daa85e10047f326751843d.svg" alt="Canva" width="40" height="50" /> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="Adobe-Premiere-Pro-CC" width="40" height="40"/> </a> 
+<!-- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="Adobe-Premiere-Pro-CC" width="40" height="40"/> </a>  -->
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
-<h3 align="center">✍️ Blogs:</h3>
+<!-- <h3 align="center">✍️ Blogs:</h3>
 <p align="center" ><a align="center" href="https://rakibulinux.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
 <a align="center" href="https://dev.to/rakibulinux" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
-</p>
+</p> -->
 <h3 align="center">✍️ Dev Quotes:</h3>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
 <h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulinux&theme=tokyonight&layout=compact" alt="Most Languages Used" />
-<img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="rakibulinux GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=highcontrast&hide_border=true" alt="rakibulinux" />
-</p>
+<!-- <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="rakibulinux GitHub Stats" /> -->
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=highcontrast&hide_border=true" alt="rakibulinux" />
+</p> -->
 <h3 align="center">📈 Visitor's Count:</h3>
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{rakibulinux}/count.svg" alt="rakibulinux" />
