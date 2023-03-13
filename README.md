@@ -14,6 +14,7 @@
  <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
 </a>
 </p>
+I am a quick learnar,endurance and responsible person. I have ability to communicate and interact with people in a way that makes them feel comfortable.
 - 🔭 I’m currently Working on my **Website** and also making my [**Portfolio**](https://portfolio.rakibulinux.com/) heavy by Learning New Things 💻.
 - 🌱 I’m currently learning more about **MERN Stack, Blockchain Dev & Courses etc.**
 - 💻 All of my projects are available at my [**Repo's**](https://github.com/rakibulinux) and some of you can see on [**Replit**](https://replit.com/@rakibulinux).
