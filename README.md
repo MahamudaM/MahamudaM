@@ -1,7 +1,6 @@
-###  Hi,I'm Mahamuda Akter
-#### React Developer
 
-I am a quick learnar,endurance and responsible person. I have ability to communicate and interact with people in a way that makes them feel comfortable.
+
+
 
 
 Skills: HTML/CSS/Javascript/Node.js / REACT / Express.js / MongoDB / Firebase
@@ -14,7 +13,7 @@ Skills: HTML/CSS/Javascript/Node.js / REACT / Express.js / MongoDB / Firebase
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahamudaM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahamuda-akter-440ba4259/)  
 
 <h1 align="center"><i>Hi,I'm Mahamuda Akter</i></h1>
-<h3 align="center"><i>A MERN Full-Stack Web Developer & Linux System Admin from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
+<h3 align="center"><i>A MERN Full-Stack Web Developer from <b>Bangladesh</b></i> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png" alt="Bangladesh Flag" height="40" width="50" /></h3>
 <a href="https://portfolio.rakibulinux.com/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a>
 <p>
  <a href="https://www.buymeacoffee.com/rakibulinux"><img src="https://camo.githubusercontent.com/9a1a9228dceac612322ceaf869c3e7616a4800682991a5c2d8c10d742f038046/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d53706f6e736f72266d6573736167653d254532253944254134266c6f676f3d47697448756226636f6c6f723d666636396234" alt="Sponsor Me" />
