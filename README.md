@@ -72,9 +72,9 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rakibulinux&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="rakibulinux Trophies" />
 </p>
-<h3 align="center">💰 Support Me</h3>
+<!-- <h3 align="center">💰 Support Me</h3>
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/rakibulinux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
-</p>
+</p> -->
 <h1 align="center">Bye 👋</h1>
 <h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
