@@ -19,7 +19,8 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 - ⚡ Intaresting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Interesting fact **During peak hour my productivity increase at the high level**.
 - ⚡ Fun fact **I'm good with people**.
-
+🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Redux 
 <h2 align="left">🌐 Connect with me on:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahamuda-akter-440ba4259/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
@@ -42,7 +43,8 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/> </a> 
 <!-- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="50" height="50"/> </a> 
+<!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> -->
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="expressjs" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <!-- </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>  -->
 <!-- <a href="https://simple.wikipedia.org/wiki/C_%28programming_language%29" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>  -->
@@ -53,28 +55,28 @@ I am a quick learnar,endurance and responsible person. I have ability to communi
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://nextjs-template.vercel.app/vercel.svg" alt="Vercel" width="50" height="50"/></a>
 </p>
 <!-- <h3 align="center">✍️ Blogs:</h3>
-<p align="center" ><a align="center" href="https://rakibulinux.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
-<a align="center" href="https://dev.to/rakibulinux" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
+<p align="center" ><a align="center" href="https://MahamudaM.hashnode.dev/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Drs91RS/brand-icon.png" alt="Hashnode" width="50" height="50"/></a> 
+<a align="center" href="https://dev.to/MahamudaM" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/devto.svg" alt="Dev.to" width="50" height="50"/></a>
 </p> -->
 <h3 align="center">✍️ Dev Quotes:</h3>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" /></p>
 <h3 align="center">📈 Stats Summary:</h3>
 <p align="center">
-<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulinux&theme=tokyonight&layout=compact" alt="Most Languages Used" />
-<!-- <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulinux&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="rakibulinux GitHub Stats" /> -->
-<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulinux&theme=highcontrast&hide_border=true" alt="rakibulinux" />
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudaM&theme=tokyonight&layout=compact" alt="Most Languages Used" />
+<!-- <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=MahamudaM&theme=tokyonight&show_icons=true&hide=%22issues%22" alt="MahamudaM GitHub Stats" /> -->
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahamudaM&theme=highcontrast&hide_border=true" alt="MahamudaM" />
 </p> -->
 <h3 align="center">📈 Visitor's Count:</h3>
  <p align="center"> 
- <img src="https://profile-counter.glitch.me/{rakibulinux}/count.svg" alt="rakibulinux" />
+ <img src="https://profile-counter.glitch.me/{MahamudaM}/count.svg" alt="MahamudaM" />
 </p>
 <h3 align="center">🏆 Trophies:</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakibulinux&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="rakibulinux Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MahamudaM&theme=dracula&no-bg=true&margin-w=10&margin-h=10" alt="MahamudaM Trophies" />
 </p>
 <!-- <h3 align="center">💰 Support Me</h3>
  <p align="center"> 
-<a href="https://www.buymeacoffee.com/rakibulinux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
+<a href="https://www.buymeacoffee.com/MahamudaM" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy-Me-A-Coffee" width="200" ></a>
 </p> -->
 <h1 align="center">Bye 👋</h1>
 <h3 align="center">Hope you are also doing Well also 👍 my Profile Please feel Free to Contect Me 📞!</h3>
